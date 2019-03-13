@@ -8,6 +8,7 @@
 - [H5 开发中的那些事](#H5-开发中的那些事)
 - [PixiJS 的应用](#PixiJS-的应用)
 - [Krpano 全景笔记](#Krpano-全景笔记)
+- [Markdown 笔记](#Markdown-笔记)
 
 ## Chrome DevTools
 
@@ -27,3 +28,7 @@
 ## Krpano 全景笔记
 
 - [Krpano 全景实现的简单笔记](https://github.com/NalvyBoo/nodeKrpano)
+
+## Markdown 笔记
+
+- [使用 Markdown 做一个目录](https://juejin.im/post/5c8876b35188257ec7053a73)
