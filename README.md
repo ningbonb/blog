@@ -4,10 +4,10 @@
 
 # 目录
 
-- [Chrome DevTools](#Chrome DevTools)
-- [H5 开发中的那些事](#H5 开发中的那些事)
-- [PixiJS 的应用](#PixiJS 的应用)
-- [Krpano 全景笔记](#Krpano 全景笔记)
+- [Chrome DevTools](#Chrome-DevTools)
+- [H5 开发中的那些事](#H5-开发中的那些事)
+- [PixiJS 的应用](#PixiJS-的应用)
+- [Krpano 全景笔记](#Krpano-全景笔记)
 
 ## Chrome DevTools
 
