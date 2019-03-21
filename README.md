@@ -23,7 +23,7 @@
 
 ## PixiJS 的应用
 
-- [PixiJS 项目实例以及绘制流畅的简单介绍](https://juejin.im/post/5c7f8b206fb9a049c96670d5)
+- [PixiJS 项目实例以及绘制流程的简单介绍](https://juejin.im/post/5c7f8b206fb9a049c96670d5)
 
 ## Krpano 全景笔记
 
