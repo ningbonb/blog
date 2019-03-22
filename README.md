@@ -9,6 +9,7 @@
 - [PixiJS 的应用](#PixiJS-的应用)
 - [Krpano 全景笔记](#Krpano-全景笔记)
 - [Markdown 笔记](#Markdown-笔记)
+- [网站安全](#网站安全)
 
 ## Chrome DevTools
 
@@ -32,3 +33,7 @@
 ## Markdown 笔记
 
 - [使用 Markdown 做一个目录](https://juejin.im/post/5c8876b35188257ec7053a73)
+
+## 网站安全
+
+- [前端 input 输入框可能被攻击的几种方式及防范](https://juejin.im/post/5c94579d518825573578c8b3)
