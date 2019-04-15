@@ -10,6 +10,7 @@
 - [Krpano 全景笔记](#Krpano-全景笔记)
 - [Markdown 笔记](#Markdown-笔记)
 - [PostCSS](#PostCSS)
+- [TypeScript](#TypeScript)
 - [网站安全](#网站安全)
 
 ## Chrome DevTools
@@ -38,6 +39,9 @@
 ## PostCSS
 
 - [PostCSS 常用插件与语法介绍](https://juejin.im/post/5ca44e4ce51d45563f7c5bd2)
+
+## TypeScript
+- [TypeScript 中的字面量是什么意思](https://juejin.im/post/5cb05e9c5188251b12249299)
 
 ## 网站安全
 
