@@ -27,6 +27,7 @@
 ## PixiJS 的应用
 
 - [PixiJS 项目实例以及绘制流程的简单介绍](https://juejin.im/post/5c7f8b206fb9a049c96670d5)
+- [我用 PixiJS 中的 Sprite3d 做了一个失败的 3D 卡片](https://juejin.im/post/5cb5384451882532994b314d)
 
 ## Krpano 全景笔记
 
