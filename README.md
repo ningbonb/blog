@@ -11,7 +11,7 @@
 - [Markdown 笔记](#Markdown-笔记)
 - [PostCSS](#PostCSS)
 - [TypeScript](#TypeScript)
-- [three.js 应用](#three.js-应用)
+- [three.js 应用](#threeJs-应用)
 - [网站安全](#网站安全)
 
 ## Chrome DevTools
@@ -45,7 +45,7 @@
 ## TypeScript
 - [TypeScript 中的字面量是什么意思](https://juejin.im/post/5cb05e9c5188251b12249299)
 
-## three.js 应用
+## threeJs 应用
 - [使用 three.js 中的 CSS3DRenderer 实现 3d 卡片的效果](https://juejin.im/post/5cb5506e518825329f6cee8e)
 
 ## 网站安全
