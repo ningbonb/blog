@@ -44,6 +44,7 @@
 
 ## TypeScript
 - [TypeScript 中的字面量是什么意思](https://juejin.im/post/5cb05e9c5188251b12249299)
+- [TypeScript 中 class 的实例成员与静态成员](https://juejin.im/post/5cb92fa9518825324f68cfc7)
 
 ## threeJs 应用
 - [使用 three.js 中的 CSS3DRenderer 实现 3d 卡片的效果](https://juejin.im/post/5cb5506e518825329f6cee8e)
