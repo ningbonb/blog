@@ -32,6 +32,7 @@
 - [一步步使用 webpack 第二篇：使用 webpack 编译 PostCSS 代码](https://juejin.im/post/5cbed22d5188251910055f63)
 - [一步步使用 webpack 第三篇：使用 webpack 管理图片等资源文件](https://juejin.im/post/5cbef0605188250a9c355fc6) 
 - [一步步使用 webpack 第四篇：使用 webpack 编译 vue 代码](https://juejin.im/post/5cbff9ab5188250a51083f56)
+- [一步步使用 webpack 第五篇：使用 webpack 编译 TypeScript 代码](https://juejin.im/post/5cc0318d6fb9a0320f7de894)
 
 ## PixiJS 的应用
 
