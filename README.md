@@ -26,6 +26,7 @@
 
 - [DOM 和 Canvas 如何实现文字竖向排列的效果](https://juejin.im/post/5c7cc99cf265da2dc84985db)
 - [使用双缓存解决 Canvas clearRect 引起的闪屏问题](https://juejin.im/post/5cc5637fe51d456e7079f2aa)
+- [使用 getImageData 实现碰撞检测](https://juejin.im/post/5cde6e3ff265da1bbe5dd23f)
 
 ## webpack
 
