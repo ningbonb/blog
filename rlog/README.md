@@ -4,6 +4,7 @@
 ---------
 
 ### 2020
+- 2020.05.09 [《JSON.stringify()》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)、[《JSON.parse()》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
 - 2020.05.07 [《如何发布第一个属于自己的npm包》](https://segmentfault.com/a/1190000013940567)
 - 2020.04.28 [《Gitlab Fork项目同步源项目更新》](https://blog.csdn.net/qq_38835878/article/details/81195400)
 - 2020.04.26 [《语义化版本 2.0.0》](https://semver.org/lang/zh-CN/)
