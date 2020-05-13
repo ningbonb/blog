@@ -14,7 +14,6 @@
 ---------
 
 ### 系统阅读
-- 2020.05.09-2020.05.13 [《Vue.js API》](https://cn.vuejs.org/v2/api/)
-- 2020.04.26-2020.05.09 [《Vue.js 教程》](https://cn.vuejs.org/v2/guide/)
+- 2020.04.26-2020.05.13 《Vue.js》：[教程](https://cn.vuejs.org/v2/guide/)、[API](https://cn.vuejs.org/v2/api/)、[风格指南](https://cn.vuejs.org/v2/style-guide/)
 - 2020.04.08-2020.04.26 [《ES6 入门教程》](https://es6.ruanyifeng.com/)
 - 2019.10.01-2020.04.08 《JavaScript 权威指南（第六版）》
