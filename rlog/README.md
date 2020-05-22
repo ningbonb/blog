@@ -4,6 +4,7 @@
 ---------
 
 ### 2020
+- 2020.05.22 [《使用 canvas 处理视频》](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 - 2020.05.22 [《npm 查看源与切换源》](https://zhuanlan.zhihu.com/p/35856841)
 - 2020.05.22 [《JavaScript 如何计算两个颜色之间的渐变色值？》](https://segmentfault.com/a/1190000018681564)
 - 2020.05.21 [《npx 使用教程》](http://www.ruanyifeng.com/blog/2019/02/npx.html)
