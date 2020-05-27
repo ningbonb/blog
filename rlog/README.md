@@ -18,6 +18,12 @@
 ---------
 
 ### 系统阅读
-- 2020.04.26-2020.05.26 《Vue.js》：[教程](https://cn.vuejs.org/v2/guide/)、[API](https://cn.vuejs.org/v2/api/)、[风格指南](https://cn.vuejs.org/v2/style-guide/)、[CookBook](https://cn.vuejs.org/v2/cookbook/index.html)、[Vue CLI](https://cli.vuejs.org/zh/)、[Vuex](https://vuex.vuejs.org/zh/)
+- 2020.04.26-2020.05.26 《Vue.js》
+  - 2020.04.26-2020.05.09 [《教程》](https://cn.vuejs.org/v2/guide/)
+  - 2020.05.09-2020.05.13 [《API》](https://cn.vuejs.org/v2/api/)
+  - 2020.05.13-2020.05.13 [《风格指南》](https://cn.vuejs.org/v2/style-guide/)
+  - 2020.05.14-2020.05.20 [《CookBook》](https://cn.vuejs.org/v2/cookbook/index.html)
+  - 2020.05.20-2020.05.22 [《Vue CLI》](https://cli.vuejs.org/zh/)
+  - 2020.05.22-2020.05.26 [《Vuex》](https://vuex.vuejs.org/zh/)
 - 2020.04.08-2020.04.26 [《ES6 入门教程》](https://es6.ruanyifeng.com/)
 - 2019.10.01-2020.04.08 《JavaScript 权威指南（第六版）》
