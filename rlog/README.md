@@ -4,6 +4,7 @@
 ---------
 
 ### 2020
+- 2020.06.05 [《cnpm 在powershell 无法运行》](https://blog.csdn.net/jinglianglove/article/details/105432374)
 - 2020.05.22 [《使用 canvas 处理视频》](https://developer.mozilla.org/zh-CN/docs/Web/API/Canvas_API/Manipulating_video_using_canvas)
 - 2020.05.22 [《npm 查看源与切换源》](https://zhuanlan.zhihu.com/p/35856841)
 - 2020.05.22 [《JavaScript 如何计算两个颜色之间的渐变色值？》](https://segmentfault.com/a/1190000018681564)
