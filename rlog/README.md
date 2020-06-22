@@ -4,6 +4,7 @@
 ---------
 
 ### 2020
+- 2020.06.22 [《JavaScript 模块化七日谈》](http://huangxuan.me/js-module-7day/#/)
 - 2020.06.09 [《包含块(containing block)》](https://developer.mozilla.org/zh-CN/docs/Web/CSS/All_About_The_Containing_Block)
 - 2020.06.09 [《深度剖析Margin塌陷，BFC，Containing Block之间的关系》](https://juejin.im/post/5aebd1e4f265da0b715621d3)
 - 2020.06.09 [《块格式化上下文》](https://developer.mozilla.org/zh-CN/docs/Web/Guide/CSS/Block_formatting_context)
