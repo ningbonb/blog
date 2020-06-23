@@ -29,6 +29,7 @@
 - [使用双缓存解决 Canvas clearRect 引起的闪屏问题](https://juejin.im/post/5cc5637fe51d456e7079f2aa)
 - [使用 getImageData 实现碰撞检测](https://juejin.im/post/5cde6e3ff265da1bbe5dd23f)
 - [偏方解决安卓 css transition 引起的抖动](https://juejin.im/post/5d5290b0f265da03b2152dd7)
+- [如何简化 Canvas 图片绘制](https://juejin.im/post/5ef17289f265da02bd40ffd9)
 
 ## webpack
 
