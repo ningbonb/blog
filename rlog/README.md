@@ -24,6 +24,7 @@
 ---------
 
 ### 系统阅读
+- 2020.06.29 [《TypeScript 入门教程》](https://ts.xcatliu.com/)
 - 2020.06.02-2020.06.23 [《TypeScript 文档》](https://www.tslang.cn/docs/home.html)
 - 2020.04.26-2020.05.26 《Vue.js》
   - 2020.04.26-2020.05.09 [《教程》](https://cn.vuejs.org/v2/guide/)
