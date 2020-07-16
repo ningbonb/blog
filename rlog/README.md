@@ -5,7 +5,7 @@
 
 ### 2020
 
-- 2020.07.16 [《npm 版本依赖》](https://github.com/npm/node-semver)
+- 2020.07.16 [《npm 版本解析》](https://github.com/npm/node-semver)
 - 2020.06.22 [《JavaScript 模块化七日谈》](http://huangxuan.me/js-module-7day/#/)
 - 2020.06.09 [《包含块(containing block)》](https://developer.mozilla.org/zh-CN/docs/Web/CSS/All_About_The_Containing_Block)
 - 2020.06.09 [《深度剖析Margin塌陷，BFC，Containing Block之间的关系》](https://juejin.im/post/5aebd1e4f265da0b715621d3)
