@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.08.03 [《搭建一个 nodejs 脚手架》](https://juejin.im/post/6844903875808346120)
 - 2020.07.16 [《npm 版本解析》](https://github.com/npm/node-semver)
 - 2020.06.22 [《JavaScript 模块化七日谈》](http://huangxuan.me/js-module-7day/#/)
 - 2020.06.09 [《包含块(containing block)》](https://developer.mozilla.org/zh-CN/docs/Web/CSS/All_About_The_Containing_Block)
