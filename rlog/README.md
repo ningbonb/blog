@@ -28,6 +28,7 @@
 ---------
 
 ### 系统阅读
+- 2020.08.18-2020.08.20 [《VSCode 教程》](https://geek-docs.com/vscode/vscode-tutorials/what-is-vscode.html)
 - 2020.06.30-2020.07.15 [《React 文档》](https://zh-hans.reactjs.org/docs/getting-started.html)
 - 2020.06.29 [《TypeScript 入门教程》](https://ts.xcatliu.com/)
 - 2020.06.02-2020.06.23 [《TypeScript 文档》](https://www.tslang.cn/docs/home.html)
