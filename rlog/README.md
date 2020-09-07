@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.09.07 [《webpack中的hash、chunkhash、contenthash区别》](https://github.com/funnycoderstar/blog/issues/100)
 - 2020.08.29 [《Glob 语法及解析》](https://rgb-24bit.github.io/blog/2018/glob.html)
 - 2020.08.14 [《设备屏幕方向与运动》](https://developers.google.com/web/fundamentals/native-hardware/device-orientation?hl=zh-cn)
 - 2020.08.03 [《搭建一个 nodejs 脚手架》](https://juejin.im/post/6844903875808346120)
