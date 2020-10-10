@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.10.10 [《JS中的算法与数据结构——栈(Stack)》](https://www.jianshu.com/p/90808ed34b86)
 - 2020.10.10 [《JS中的算法与数据结构——列表(List)》](https://www.jianshu.com/p/cea9f3be42f5)
 - 2020.09.30 [《七天学会NodeJS》](https://nqdeng.github.io/7-days-nodejs/)
 - 2020.09.07 [《webpack中的hash、chunkhash、contenthash区别》](https://github.com/funnycoderstar/blog/issues/100)
