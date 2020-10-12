@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.10.12 [《JS中的算法与数据结构——链表(Linked-list)》](https://www.jianshu.com/p/f254ec665e57)
 - 2020.10.10 [《JS中的算法与数据结构——队列(Queue)》](https://www.jianshu.com/p/1157aaccad36)
 - 2020.10.10 [《JS中的算法与数据结构——栈(Stack)》](https://www.jianshu.com/p/90808ed34b86)
 - 2020.10.10 [《JS中的算法与数据结构——列表(List)》](https://www.jianshu.com/p/cea9f3be42f5)
