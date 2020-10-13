@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.10.13 [《JS中的算法与数据结构——集合(Set)》](https://www.jianshu.com/p/e2d208725bc3)
 - 2020.10.12 [《JS中的算法与数据结构——字典(Dictionary)》](https://www.jianshu.com/p/eece86baec10)
 - 2020.10.12 [《JS中的算法与数据结构——链表(Linked-list)》](https://www.jianshu.com/p/f254ec665e57)
 - 2020.10.10 [《JS中的算法与数据结构——队列(Queue)》](https://www.jianshu.com/p/1157aaccad36)
