@@ -5,7 +5,7 @@
 
 ### 2020
 
-- 2020.11.05 [《Git 打标签》(https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)]
+- 2020.11.05 [《Git 打标签》](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
 - 2020.11.05 [《Git 锁定错误 Commit （git bisect 命令）》](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
 - 2020.11.05 [《Git 只获取部分目录的内容（ sparse checkout 稀疏检出）》](https://zhgcao.github.io/2016/05/11/git-sparse-checkout/)
 - 2020.10.13 [《JS中的算法与数据结构——排序（Sort）》](https://www.jianshu.com/p/8d30da8b832e)
