@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.11.05 [《Git 原理详解及实用指南》](https://shidongxu0312.github.io/2019/11/28/Git-%E5%8E%9F%E7%90%86%E8%AF%A6%E8%A7%A3%E5%8F%8A%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97/)
 - 2020.10.13 [《JS中的算法与数据结构——排序（Sort）》](https://www.jianshu.com/p/8d30da8b832e)
 - 2020.10.13 [《JS中的算法与数据结构——二叉查找树（Binary Sort Tree）》](https://www.jianshu.com/p/6a4b7f261e99)
 - 2020.10.13 [《JS中的算法与数据结构——集合(Set)》](https://www.jianshu.com/p/e2d208725bc3)
