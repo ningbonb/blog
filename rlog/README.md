@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.11.05 [《Git 只获取部分目录的内容（ sparse checkout 稀疏检出）》](https://zhgcao.github.io/2016/05/11/git-sparse-checkout/)
 - 2020.10.13 [《JS中的算法与数据结构——排序（Sort）》](https://www.jianshu.com/p/8d30da8b832e)
 - 2020.10.13 [《JS中的算法与数据结构——二叉查找树（Binary Sort Tree）》](https://www.jianshu.com/p/6a4b7f261e99)
 - 2020.10.13 [《JS中的算法与数据结构——集合(Set)》](https://www.jianshu.com/p/e2d208725bc3)
