@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.11.11 [《dotfiles 新手教程》](https://luolei.org/dotfiles-tutorial/)
 - 2020.11.09 [《Github 进行 fork 后如何与原仓库同步》](https://github.com/selfteaching/the-craft-of-selfteaching/issues/67)
 - 2020.11.05 [《Git 打标签》](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E6%89%93%E6%A0%87%E7%AD%BE)
 - 2020.11.05 [《Git 锁定错误 Commit （git bisect 命令）》](http://www.ruanyifeng.com/blog/2018/12/git-bisect.html)
