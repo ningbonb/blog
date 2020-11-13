@@ -48,6 +48,7 @@
 ---------
 
 ### 系统阅读
+- 2020.11.13 [《Vue3 中文文档》]（https://vue3js.cn/docs/zh/guide/introduction.html）
 - 2020.11.05 [《Git 原理详解及实用指南》](https://juejin.im/book/6844733697996881928)
 - 2020.08.20-2020.09.23 [《webpack 文档》](https://webpack.docschina.org/)
 - 2020.08.18-2020.08.20 [《VSCode 教程》](https://geek-docs.com/vscode/vscode-tutorials/what-is-vscode.html)
