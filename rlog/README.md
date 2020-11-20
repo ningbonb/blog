@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.11.20 [《JavaScript 运行机制详解：Event Loop》](https://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 - 2020.11.20 [《进程与线程的一个简单解释》](http://www.ruanyifeng.com/blog/2013/04/processes_and_threads.html)
 - 2020.11.20 [《手写 Promise》](https://juejin.cn/post/6850037281206566919)
 - 2020.11.11 [《CI/CD 是什么？如何理解持续集成、持续交付和持续部署》](https://www.redhat.com/zh/topics/devops/what-is-ci-cd)
