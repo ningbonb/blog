@@ -70,4 +70,4 @@
   - 2020.05.22-2020.05.26 [《Vuex》](https://vuex.vuejs.org/zh/)
   - 2020.05.26-2020.06.01 [《Vue Router》](https://router.vuejs.org/zh/guide/)
 - 2020.04.08-2020.04.26 [《ES6 入门教程》](https://es6.ruanyifeng.com/)
-- 2019.10.01-2020.04.08 《JavaScript 权威指南（第六版）》
+- 2019.10.01-2020.04.08 [《JavaScript 权威指南（第六版）》](https://book.douban.com/subject/10549733/)
