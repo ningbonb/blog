@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2020.12.03 [《:nth-child 指定区间范围》](https://demo.cssworld.cn/selector/10/3-2.php)
 - 2020.11.24 [《SoftBind》](https://moruo.vip/2018/09/16/soft-bind/)
 - 2020.11.24 [《宏任务和微任务到底是什么？》](https://cloud.tencent.com/developer/article/1701427)
 - 2020.11.20 [《JavaScript 运行机制详解：Event Loop》](https://www.ruanyifeng.com/blog/2014/10/event-loop.html)
