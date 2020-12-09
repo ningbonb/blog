@@ -68,6 +68,7 @@
 ## threeJs 应用
 - [如何提取 obj 模型的顶点信息，适用于 Three.js](https://juejin.im/post/5df0bef65188251273249c07)
 - [使用 three.js 中的 CSS3DRenderer 实现 3d 卡片的效果](https://juejin.im/post/5cb5506e518825329f6cee8e)
+- [Three.js 立方纹理图片命名对照](https://juejin.cn/post/6904148202698571783)
 
 ## 网站安全
 
