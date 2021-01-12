@@ -54,6 +54,7 @@
 ---------
 
 ### 系统阅读
+- 2021.01.11-2021.01.12 [《你不知道的 Chrome 调试技巧》](https://github.com/dendoink/FrontendWingman/blob/master/Chrome.README.md)
 - 2020.11.30-2020.12.02 [《Unity 3D 教程》](http://c.biancheng.net/unity3d/)
 - 2020.11.26-2020.11.27 [《Lua 教程》](https://www.runoob.com/lua/lua-tutorial.html)
 - 2020.11.13 [《Vue3 中文文档》](https://vue3js.cn/docs/zh/guide/introduction.html)
