@@ -31,6 +31,7 @@
 - [偏方解决安卓 css transition 引起的抖动](https://juejin.im/post/5d5290b0f265da03b2152dd7)
 - [如何简化 Canvas 图片绘制](https://juejin.im/post/5ef17289f265da02bd40ffd9)
 - [使用 Matter.js 合成大西瓜](https://juejin.cn/post/6931284891975811086)
+- [如何给拖拽交互添加缓动](https://juejin.cn/post/6948297919799918605)
 
 ## webpack
 
