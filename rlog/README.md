@@ -5,6 +5,7 @@
 
 ### 2020
 
+- 2021.04.08 [《Hybrid 混合开发介绍》](https://juejin.cn/post/6844904136450768909)
 - 2021.04.07 [《Node环境变量 process.env 的那些事儿》](https://segmentfault.com/a/1190000011683741)
 - 2020.12.03 [《:nth-child 指定区间范围》](https://demo.cssworld.cn/selector/10/3-2.php)
 - 2020.11.24 [《SoftBind》](https://moruo.vip/2018/09/16/soft-bind/)
