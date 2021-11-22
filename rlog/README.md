@@ -5,6 +5,7 @@
 
 ### 2021
 
+- 2021.11.22 [《对象模型的细节》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Class-based_vs._prototype-based_languages)
 - 2021.07.06 [《rollup源码之plugin编写指南》](https://juejin.cn/post/6964671121694146597)
 - 2021.07.06 [《一文带你快速上手Rollup》](https://juejin.cn/post/6869551115420041229)
 - 2021.06.30 [《Commit message 和 Change log 编写指南》](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
