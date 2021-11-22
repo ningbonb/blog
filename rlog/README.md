@@ -5,6 +5,7 @@
 
 ### 2021
 
+- 2021.11.22 [《浏览器渲染流程》](https://juejin.cn/post/6844903565610188807)
 - 2021.11.22 [《浏览器输入 URL 后发生了什么》](https://zhuanlan.zhihu.com/p/31217589)
 - 2021.11.22 [《对象模型的细节》](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Guide/Details_of_the_Object_Model#Class-based_vs._prototype-based_languages)
 - 2021.07.06 [《rollup源码之plugin编写指南》](https://juejin.cn/post/6964671121694146597)
