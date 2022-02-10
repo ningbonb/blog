@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.02.10 [《为什么你应该考虑将 node_modules 上传到远程仓库》](https://mp.weixin.qq.com/s/YH96X8U8HAIShkbuShhHog)
 - 2022.02.10 [《换一种风格理解 Chrome 浏览器渲染全过程》](https://mp.weixin.qq.com/s/MjH4ISV9fV-GNZjiivxaTw)
 
 ### 2021
