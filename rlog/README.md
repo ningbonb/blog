@@ -3,6 +3,10 @@
 
 ---------
 
+### 2022
+
+- 2022.02.10 [《换一种风格理解 Chrome 浏览器渲染全过程》](https://mp.weixin.qq.com/s/MjH4ISV9fV-GNZjiivxaTw)
+
 ### 2021
 
 - 2021.11.22 [《浏览器渲染流程》](https://juejin.cn/post/6844903565610188807)
