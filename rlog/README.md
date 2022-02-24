@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.02.24 [《lerna管理前端模块最佳实践》](https://juejin.cn/post/6844903568751722509)
 - 2022.02.24 [《pnpm 可以给你带来什么》](https://juejin.cn/post/6951190236290351118)
 - 2022.02.24 [《从浏览器渲染层面解析css3动效优化原理》](https://www.jianshu.com/p/de6eee5a9f08)
 - 2022.02.22 [《Vue3 成为新的默认版本》](https://gist.github.com/yyx990803/bf9a625eeff8b471bf0701afb8e3fe75)
