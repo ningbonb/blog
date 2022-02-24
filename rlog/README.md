@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.02.24 [《从浏览器渲染层面解析css3动效优化原理》](https://www.jianshu.com/p/de6eee5a9f08)
 - 2022.02.22 [《Vue3 成为新的默认版本》](https://gist.github.com/yyx990803/bf9a625eeff8b471bf0701afb8e3fe75)
 - 2022.02.10 [《前端框架的理解》](https://mp.weixin.qq.com/s/QnjXyfdN_DwWRGC7NBMtPw)
 - 2022.02.10 [《疑难杂症：运用 transform 导致文本模糊的现象探究》](https://mp.weixin.qq.com/s/IaD2BxK05FpgJ4WB8Hl9RA)
