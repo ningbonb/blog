@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.02.24 [《为什么说 WASM 是 Web 的未来？》](https://juejin.cn/post/7035991254257106958)
 - 2022.02.24 [《lerna管理前端模块最佳实践》](https://juejin.cn/post/6844903568751722509)
 - 2022.02.24 [《pnpm 可以给你带来什么》](https://juejin.cn/post/6951190236290351118)
 - 2022.02.24 [《从浏览器渲染层面解析css3动效优化原理》](https://www.jianshu.com/p/de6eee5a9f08)
