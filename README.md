@@ -32,6 +32,7 @@
 - [如何简化 Canvas 图片绘制](https://juejin.im/post/5ef17289f265da02bd40ffd9)
 - [使用 Matter.js 合成大西瓜](https://juejin.cn/post/6931284891975811086)
 - [如何给拖拽交互添加缓动](https://juejin.cn/post/6948297919799918605)
+- [微信浏览器音频自动播放](https://juejin.cn/post/7113805660667510798)
 
 ## webpack
 
