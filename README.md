@@ -6,6 +6,7 @@
 
 - [Chrome DevTools](#Chrome-DevTools)
 - [H5 开发中的那些事](#H5-开发中的那些事)
+- [NodeJS](#NodeJS)
 - [webpack](#webpack)
 - [PixiJS 的应用](#PixiJS-的应用)
 - [Krpano 全景笔记](#Krpano-全景笔记)
@@ -33,6 +34,11 @@
 - [使用 Matter.js 合成大西瓜](https://juejin.cn/post/6931284891975811086)
 - [如何给拖拽交互添加缓动](https://juejin.cn/post/6948297919799918605)
 - [微信浏览器音频自动播放](https://juejin.cn/post/7113805660667510798)
+
+## NodeJS
+
+- [Node.js 批量绘制 NFT 的尝试](https://juejin.cn/post/7117085290782523399)
+- [如何清除 npx 缓存](https://juejin.cn/post/7135008998742294541)
 
 ## webpack
 
