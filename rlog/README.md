@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.09.01 [《iOS的快捷指令与 JavaScript 语言的对照》](https://zhuanlan.zhihu.com/p/45149843)
 - 2022.08.29 [《PowerShell设置命令别名 Alias》](https://segmentfault.com/a/1190000015928399)
 - 2022.08.25 [《多媒体文件的容器与编解码器的关系》](https://www.cnblogs.com/Wayou/p/media_container_and_codec.html)
 - 2022.08.16 [《理解 CSS3 max/min-content 及 fit-content 等 width 值》](https://www.zhangxinxu.com/wordpress/2016/05/css3-width-max-contnet-min-content-fit-content/)
