@@ -5,6 +5,7 @@
 
 ### 2022
 
+- 2022.09.22 [《为什么要用 Pure ESM package》](https://www.albertaz.com/blog/pure-esm-package)
 - 2022.09.01 [《iOS的快捷指令与 JavaScript 语言的对照》](https://zhuanlan.zhihu.com/p/45149843)
 - 2022.08.29 [《PowerShell设置命令别名 Alias》](https://segmentfault.com/a/1190000015928399)
 - 2022.08.25 [《多媒体文件的容器与编解码器的关系》](https://www.cnblogs.com/Wayou/p/media_container_and_codec.html)
