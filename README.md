@@ -39,6 +39,7 @@
 
 - [Node.js 批量绘制 NFT 的尝试](https://juejin.cn/post/7117085290782523399)
 - [如何清除 npx 缓存](https://juejin.cn/post/7135008998742294541)
+- [如何判断当前的 npm 包管理器？](https://juejin.cn/post/7194723240818769980)
 
 ## webpack
 
