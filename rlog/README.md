@@ -5,6 +5,7 @@
 
 ### 2023
 
+- 2023.02.07 [《Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？》](https://lxchuan12.gitee.io/vue-next-release/)
 - 2023.01.31 [《package.json 配置完全解读》](https://juejin.cn/post/7145001740696289317)
 - 2023.01.31 [《semver：语义版本号标准 + npm的版本控制器》](https://juejin.cn/post/7122240572491825160)
 
