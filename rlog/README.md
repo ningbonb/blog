@@ -5,6 +5,7 @@
 
 ### 2023
 
+- 2023.02.07 [《Angular提交信息规范》](https://zj-git-guide.readthedocs.io/zh_CN/latest/message/Angular%E6%8F%90%E4%BA%A4%E4%BF%A1%E6%81%AF%E8%A7%84%E8%8C%83/)
 - 2023.02.07 [《Vue 3.2 发布了，那尤雨溪是怎么发布 Vue.js 的？》](https://lxchuan12.gitee.io/vue-next-release/)
 - 2023.01.31 [《package.json 配置完全解读》](https://juejin.cn/post/7145001740696289317)
 - 2023.01.31 [《semver：语义版本号标准 + npm的版本控制器》](https://juejin.cn/post/7122240572491825160)
