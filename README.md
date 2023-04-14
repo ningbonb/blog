@@ -35,6 +35,11 @@
 - [如何给拖拽交互添加缓动](https://juejin.cn/post/6948297919799918605)
 - [微信浏览器音频自动播放](https://juejin.cn/post/7113805660667510798)
 
+## 前端架构
+
+- [Github 新建前端仓库，选择什么 .gitignore 模板？](https://juejin.cn/post/7221783542790897724)；
+- [学习 Vue3 设计模式搭建前端开源仓库](https://juejin.cn/post/7221781646719516729)；
+
 ## NodeJS
 
 - [Node.js 批量绘制 NFT 的尝试](https://juejin.cn/post/7117085290782523399)
